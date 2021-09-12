@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> नमस्ते (Namaste), I'm Rocky Saini <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> नमस्ते (Namaste), I'm Shekhar Saini <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
   
@@ -17,7 +17,7 @@ A 20Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 - 🌱 I’m currently learning Java,c++, NodeJs, Python and ReactJs
 - 👯 I’m looking to collaborate on Java Development,Python projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/thenameisrocky____/?fbclid=IwAR2QPaSlYZ8u9Y82C0Z0CCx-ncT6tQhDNe-0sOyKpCi2XCvX2-9hT3IfXSs) 
-- 📫 How to reach me **rockysainig@gmail.com**
+- 📫 How to reach me **shekharsaini7898@gmail.com**
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
